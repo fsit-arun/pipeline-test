@@ -1,5 +1,5 @@
 pipeline{
-    agent any4456sadsassadasadaaddafadadadad
+    agent any4456sadsassadas
     stages{
         stage("one"){
             steps {
