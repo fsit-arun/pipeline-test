@@ -1,5 +1,5 @@
 pipeline{
-    agent any
+    agent anya
     stages{
         stage("one"){
             steps {
