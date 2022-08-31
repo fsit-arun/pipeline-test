@@ -1,5 +1,5 @@
 pipeline{
-    agent any4456s
+    agent any
     stages{
         stage("one"){
             steps {
